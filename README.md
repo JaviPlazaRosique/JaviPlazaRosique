@@ -10,7 +10,6 @@ I would like to emphasize that I am a defender of the phrase:
 - Email: [j.plazarosique@gmail.com](mailto:j.plazarosique@gmail.com)
 - Phone: [+34 675 336 108](tel:+34675336108) 
 - LinkedIn:
-- GitHub:
 
 ## ⚙️Tools
 
