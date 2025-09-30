@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋Hi, I am Javi Plaza
 
-<!--
-**JaviPlazaRosique/JaviPlazaRosique** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Curious, analytical, and a lover of economic analysis. I enjoy working on difficult challenges, understanding both the problem and finding its solution.
 
-Here are some ideas to get you started:
+I would like to emphasize that I am a defender of the phrase:
+**"Data beast narrative"**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫Contact
+
+- Email: [j.plazarosique@gmail.com](mailto:j.plazarosique@gmail.com)
+- Phone: [+34 675 336 108](tel:+34675336108) 
+- LinkedIn:
+- GitHub:
+
+## ⚙️Tools
+
+## 💼Projets (Academic and Personal)
+
+## 🎓Education
+
+- Master’s in Big Data & Cloud Computing — EDEM (in progress)
+- B.Sc. in Economics — [University of Murcia]
+
